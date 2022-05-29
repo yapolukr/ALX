@@ -1,0 +1,15 @@
+AAAA;3.07;Warszawa
+BBBB;4.8;Szczecin
+ccc; 9.7;Bydgoszcz
+AAjA;3.97;Warszawa
+BBBB;4.8;Szczecin
+ccc; 9.7;Bydgoszcz
+AAAA;3.8;Warszawa
+BBBB;4.8;Warszawa
+ccc; 9.7;Bydgoszcz
+AAAA;3.87;Warszawa
+BBBB;4.8;Szczecin
+ccc; 9.7;Warszawa
+AAAA;8.07;Warszawa
+BBBB;4.8;Szczecin
+ccc; 9.7;Bydgoszcz

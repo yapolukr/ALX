@@ -1,0 +1,13 @@
+a = int(input("liczba1 "))
+b = int(input("liczba2 "))
+c = int(input("licszba3 "))
+d = int(input("liczba4 "))
+e = int(input("liczba5 "))
+
+zbior = set()
+zbior.add (a)
+zbior.add (b)
+zbior.add (c)
+zbior.add (d)
+zbior.add (e)
+print(len(zbior))
